@@ -1,0 +1,181 @@
+module.exports = {
+
+  // title: 'Fordonsteknik',
+  themeConfig: {
+    smoothScroll: true,
+    navbar: false,
+    search: false,
+    sidebarDepth: 0,
+    sidebar: {
+      '/Form/': [
+        ['/Form/', 'Form och lägestoleranser'],
+        ['Termer', 'Termer och grundläggande definitioner'],
+        ['Skrivsatt', 'Skrivsätt'],
+        ['Toleranskravet', 'Toleranskravets anslutning'],
+        ['Partiella', 'Partiella krav'],
+        ['Toleransomrade', 'Toleransområde'],
+        ['Referenser', 'Referenser'],
+        ['Utflyttat', 'Utflyttat toleransområde'],
+        ['ToleransRiktning', 'Toleransområdets riktning'],
+        ['ToleranserOchRef', 'Toleranser och referenser för delningsdiameter'],
+        ['Teoretiskt', 'Teoretiskt riktiga mått'],
+        ['Toleransdef', 'Toleransdefinitioner'],
+        ['Rakhet', 'Rakhet'],
+        ['Generatris', 'Generatris'],
+        ['Definition', 'Definition'],
+        ['Val', 'Val'],
+        ['Planhet', 'Planhet'],
+        ['Rundhet', 'Rundhet'],
+        ['Cylindricitet', 'Cylindricitet'],
+        ['Profilform', 'Profilform'],
+        ['Ytform', 'Yt-form'],
+        ['Parallellitet', 'Parallellitet'],
+        ['Vinkel', 'Vinkelräthet'],
+        ['Vinkelriktighet', 'Vinkelriktighet'],
+        ['Lages', 'Lägesriktighet'],
+        ['Koaxialitet', 'Koaxialitet/Kocentricitet'],
+        ['Symmetri', 'Symmetri'],
+        ['Samband', 'Samband mellan form-, riktnings- och lägestoleranser'],
+        ['Cirkulart', 'Cirkulärt kast'],
+        ['Totalkast', 'Totalkast'],
+      ],
+
+      // '/Tarbetsmiljo/': [
+      //   '',
+      //   'Arbsak',
+      //   'Arbmiljoverket',
+      // ],
+
+      // '/Tarbetsmarknad/': [
+      //   '',
+      //   'Arbetsmarknaden',
+      //   'Arbetsratt',
+      //   'Arbetsetik',
+      // ],
+
+      // '/Tbransch/': [
+      //   '',
+      //   'Framtiden',
+      //   'Konsumentperspektivet',
+      //   'Verkstadsperspektivet',
+      // ],
+
+      // '/servicek/': [
+      //   {
+      //     title: 'Service och bemötande',   // required
+      //     collapsable: false, // optional, defaults to true
+      //     sidebarDepth: 1,    // optional, defaults to 1
+      //     children: [
+      //       '',
+      //       'kund',
+      //       'fragor',
+      //       'bemota',
+      //     ]
+      //   },
+
+      //   'basservice',
+        
+      //   {
+      //     title: 'Kommunikation',
+      //     children: [
+      //       'komintro',
+      //       'kommunikation'
+      //     ],
+      //     collapsable: false,
+      //   }
+      // ],
+
+      // '/Kartlaggning/': [
+      //   '',
+      //   'Personlig',
+      //   'Social',
+      //   'Emotionell',
+      //   'Konflikthantering',
+      //   'Fritidsintressen',
+      //   'Yrkeskompetens',
+      //   'Kartlaggning',
+      //   'Smart',
+      //   'Matte',
+      // ],
+
+      // '/Verktyg/': [
+      //   '',
+      //   'Almanna',
+      //   'Pelarborr',
+      //   'Handhallna'
+      // ],
+
+      // '/Fordonsintroduktion/': [
+
+      //   'Centralt',
+
+      //   {
+      //     title: 'Arbetsmarknad och arbetsrätt',   // required
+      //     collapsable: false, // optional, defaults to true
+      //     sidebarDepth: 1,    // optional, defaults to 1
+      //     children: [
+      //       'Arbintro',
+      //       'Arbetsmarknaden',
+      //       'Arbetsratt',
+      //       'Arbetsetik',
+      //       'Uppfoljningsfragor',
+      //     ]
+      //   },
+
+      //   {
+      //     title: 'Bransch',   // required
+      //     collapsable: false, // optional, defaults to true
+      //     sidebarDepth: 1,    // optional, defaults to 1
+      //     children: [
+      //       '',
+      //       'Framtiden',
+      //       'Konsumentperspektivet',
+      //       'Verkstadsperspektivet',
+      //     ]
+      //   },
+      // ],
+
+      // '/Tekniskatermer/': [
+
+      //   {
+      //     title: 'Mätteknik',   // required
+      //     collapsable: false, // optional, defaults to true
+      //     sidebarDepth: 1,    // optional, defaults to 1
+      //     children: [
+      //       ['Mekanisk', 'Mekanisk mätteknik'],
+      //       ['Stalskala', 'Mätning med stålskala'],
+      //       ['Nonieskalan', 'Nonieskalan'],
+      //       ['Skjutmatt1', 'Handhavande av skjutmått'],
+      //       ['Invandig', 'Invändig diameter'],
+      //       ['Matning', 'Mätning av vinklar'],
+      //       ['Radiemall', 'Mätning med radiemall'],
+      //       ['Hojdridsmatt', 'Höjdritsmått'],
+      //       // ['Tester', 'Uppföljningsfrågor och tester'],
+      //     ]
+      //   },
+
+      //   {
+      //     title: 'Moment och mätteknik',   // required
+      //     collapsable: false, // optional, defaults to true
+      //     sidebarDepth: 1,    // optional, defaults to 1
+      //     children: [
+      //       'Momentstart',
+      //       'Bladmatt',
+      //       'Indikatorklocka',
+      //       'Mikrometer',
+      //       'Momentnyckel',
+      //       'Skjutmatt',
+      //       'Linjal',
+      //       'Vippindikator',
+      //       'Refraktometer',
+      //     ]
+      //   },
+      // ],
+
+      // fallback
+      '/': [
+
+      ]
+    }
+  }
+}
