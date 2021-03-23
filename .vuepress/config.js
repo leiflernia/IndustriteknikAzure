@@ -1,12 +1,13 @@
 module.exports = {
 
-  // title: 'Fordonsteknik',
+  // title: '',
   themeConfig: {
     smoothScroll: true,
     navbar: false,
     search: false,
     sidebarDepth: 0,
     sidebar: {
+
       '/Form/': [
         ['/Form/', 'Form och lägestoleranser'],
         ['Termer', 'Termer och grundläggande definitioner'],
@@ -40,11 +41,20 @@ module.exports = {
         ['Totalkast', 'Totalkast'],
       ],
 
-      // '/Tarbetsmiljo/': [
-      //   '',
-      //   'Arbsak',
-      //   'Arbmiljoverket',
-      // ],
+      // Kälsvets 1
+
+      '/A1A2/': [
+        '/A1A2/',
+        'Elgrunder',
+        'Elnatur',
+        'Intermitensfaktor',
+        'Stromkalla',
+        'Svetsmetoder',
+        'Svetsprocesser',
+        'Tillsatsmaterial',
+        'Materialoverforing',
+        'SvetsensForm',
+      ],
 
       // '/Tarbetsmarknad/': [
       //   '',
@@ -74,7 +84,7 @@ module.exports = {
       //   },
 
       //   'basservice',
-        
+
       //   {
       //     title: 'Kommunikation',
       //     children: [
