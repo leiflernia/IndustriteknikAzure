@@ -29,4 +29,3 @@ De material som leder ström innehåller elektroner, som har en dålig bindning 
 
 Den elektriska strömmen är bunden till ledaren, eftersom elektronerna i normala fall inte kan lämna den av egen kraft. Elektronerna ska lämna ledaren vid speciella omständigheter, t.ex vid hög temperatur eller som överslag/gnista vid högspänning. Detta kallas  _**emittering**_.
 
-

@@ -47,6 +47,7 @@ module.exports = {
         '/A1A2/',
         'Elgrunder',
         'Elnatur',
+        'Quiz',
         'Intermitensfaktor',
         'Stromkalla',
         'Svetsmetoder',
