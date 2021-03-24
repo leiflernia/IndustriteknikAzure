@@ -56,6 +56,22 @@ module.exports = {
         'SvetsensForm',
         'Quiz',
       ],
+      '/A2/': [
+        '/A2/',
+        'Dist',
+        'Omvandling',
+        'Transform',
+        'Likriktare',
+        'Omriktare',
+        'Svetsformare',
+        'Byte',
+        'Tom',
+        'Svetsstrom',
+        'Intermittensfaktor',
+        'Markskylt',
+        'Till',
+        'Svetspara',
+      ],
 
       // '/Tarbetsmarknad/': [
       //   '',

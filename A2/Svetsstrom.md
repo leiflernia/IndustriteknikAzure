@@ -1,0 +1,3 @@
+# Svetsström
+
+Det antal elektroner som per tidsenhet passerar ett tvärsnitt av en ledare kallas ström. När svetsaren tänder sin ljusbåge kommer elektronerna i ledaren (kabeln) att sättas i rörelse och därmed har en sluten strömkrets uppstått. Hur stor ström som behövs avgörs av dimensionen på svetselektroden, men också på svetskabelns längd /area. Är kabeln lång eller arean liten behövs mer ström då motståndet (resistansen) ökar. Inställning av svetsströmmen sker på svetsmaskinens frontpanel och strömvredet är graderat till den maximala ström maskinen kan ge. Men den maximala märkströmmen går sällan att ta ut (se intermittensfaktor nästa sida). Andra sätt att ställa ström sker med hjälp av s.k. fjärrreglage, eller av pulsdon.
