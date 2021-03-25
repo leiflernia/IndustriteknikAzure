@@ -1,4 +1,4 @@
-## SM1 Utrustningens uppbyggnad och underhåll
+# SM1 Utrustningens uppbyggnad och underhåll
 
 **Mål**: Kunna grunderna för en strömkälla för MIG/MAG-svetsning
 
