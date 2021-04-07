@@ -368,6 +368,15 @@ module.exports = {
         '16',
         '17',
       ],
+      '/Svetsbeteckningar/': [
+        '/Svetsbeteckningar/',
+        'Grundsymboler',
+        'Kombination',
+        'Tillagg',
+        'Mattangivelser',
+        'Svetsmetoder',
+        'Svetsklass',
+      ],
 
       // '/Tarbetsmarknad/': [
       //   '',
