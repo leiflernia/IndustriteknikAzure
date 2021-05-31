@@ -1,14 +1,15 @@
-# Tillsatsmaterial och skyddsgaser
+# Hälsa och säkerhet
 
-**Mål**: Ha grundläggande kunskaper om de tillsatsmaterial som används vid MIG/MAG-svetsning
+**Mål:** 
 
-**Omfattning**:
+Ha grundläggande kunskaper om de särskilda säkerhetsåtgärder som behövs vid MIG/MAG-svetsning
 
--   Indelning av tillsatsmaterial för svetsning (tråd- och rörelektroder och skyddsgaser)
--   Trådelektroders kemiska sammansättning
--   Använding av olika typer av dimensioner av tråd- och rörelektroder
--   Val av skyddsgaser
+ 
+**Omfattning:**
 
-**Förväntat resultat**:
+- Svetsrök
+- Ultraviolett strålning
+ 
+**Förväntat resultat:**
 
-1.  Kunna kontrollera det rätta valet av tillsatmaterial för svetsning för en bestämt arbete (t.ex. enligt tillämplig wps)
+Kunna hur man skyddar svetsaren mot möjliga risker vid MIG/MAG-svetsning
